@@ -64,7 +64,53 @@ h1 {
   color: #333;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   transition: transform 0.2s;
+  display: block;
+  margin: 10px 0;
+  font-weight: bold;
 }
+.ads a:nth-child(1) {
+  background-color: #e0f7fa; /* 浅蓝 */
+  color: #000;
+}
+
+.ads a:nth-child(2) {
+  background-color: #f1f8e9; /* 浅绿 */
+  color: #000;
+}
+
+.ads a:nth-child(3) {
+  background-color: #fff3e0; /* 浅橙 */
+  color: #000;
+}
+.ads a:nth-child(4) {
+  background-color: #e0f7fa; /* 浅蓝 */
+  color: #000;
+}
+
+.ads a:nth-child(5) {
+  background-color: #f1f8e9; /* 浅绿 */
+  color: #000;
+}
+
+.ads a:nth-child(6) {
+  background-color: #fff3e0; /* 浅橙 */
+  color: #000;
+}
+.ads a:nth-child(7) {
+  background-color: #e0f7fa; /* 浅蓝 */
+  color: #000;
+}
+
+.ads a:nth-child(8) {
+  background-color: #f1f8e9; /* 浅绿 */
+  color: #000;
+}
+
+.ads a:nth-child(9) {
+  background-color: #fff3e0; /* 浅橙 */
+  color: #000;
+}
+
 
 .ad-box:hover {
   transform: translateY(-5px);
