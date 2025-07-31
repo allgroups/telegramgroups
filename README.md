@@ -4,4 +4,3 @@
 [website](https://allgroups.github.io/telegramgroups/)
 
 telegramgroups
-telegram_groups
