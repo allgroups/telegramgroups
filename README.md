@@ -1,7 +1,6 @@
 # telegramgroups
-更新于2025-08-01 21:28
+更新于2025-08-01 21:29
 
 [website](https://allgroups.github.io/telegramgroups/)
 
 telegramgroups
-telegram_groups
